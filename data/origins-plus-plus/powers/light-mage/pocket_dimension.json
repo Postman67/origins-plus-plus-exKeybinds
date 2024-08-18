@@ -20,7 +20,7 @@
 				}
 			]
 		},
-		"key":"key.loadToolbarActivator",
+		"key":"key.origins.ternary_active",
 		"condition":{
 			"type":"origins:and",
 			"conditions":[

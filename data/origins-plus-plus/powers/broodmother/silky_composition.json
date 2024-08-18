@@ -9,5 +9,5 @@
 		"sprite_location":"origins:textures/gui/community/huang/resource_bar_02.png",
 		"bar_index":0
 	},
-	"key":"key.loadToolbarActivator"
+	"key":"key.origins.ternary_active"
 }

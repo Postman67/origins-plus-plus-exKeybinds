@@ -11,7 +11,7 @@
 	"phase_toggle":{
 		"type":"origins:toggle",
 		"active_by_default":true,
-		"key":"key.loadToolbarActivator"
+		"key":"key.origins.ternary_active"
 	},
 	"phase":{
 		"type":"origins:phasing",

@@ -1,7 +1,7 @@
 {
 	"type":"origins:active_self",
 	"cooldown":100,
-	"key":"key.loadToolbarActivator",
+	"key":"key.origins.ternary_active",
 	"entity_action":{
 		"type":"origins:execute_command",
 		"command":"function origins-plus-plus:earth-spirit/downgrade"

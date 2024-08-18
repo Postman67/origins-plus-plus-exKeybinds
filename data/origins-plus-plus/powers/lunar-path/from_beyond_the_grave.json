@@ -2,7 +2,7 @@
 	"type":"origins:multiple",
 	"summon":{
 		"type":"origins:active_self",
-		"key":"key.loadToolbarActivator",
+		"key":"key.origins.ternary_active",
 		"entity_action":{
 			"type":"origins:execute_command",
 			"command":"function origins-plus-plus:lunar-path/from_beyond_the_grave_summon"

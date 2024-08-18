@@ -39,7 +39,7 @@
 			}
 		]
 	},
-	"key":"key.loadToolbarActivator",
+	"key":"key.origins.ternary_active",
 	"cooldown":900,
 	"hud_render":{
 		"bar_index":5,

@@ -1,5 +1,5 @@
 {
-	"key":"key.saveToolbarActivator",
+	"key":"key.origins.quaternary_active",
 	"type":"origins:active_self",
 	"cooldown":100,
 	"hud_render":{

@@ -1,6 +1,6 @@
 {
 	"hidden":true,
-	"key":"key.saveToolbarActivator",
+	"key":"key.origins.quaternary_active",
 	"type":"origins:active_self",
 	"entity_action":{
 		"type":"origins:execute_command",

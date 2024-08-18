@@ -27,7 +27,7 @@
 			"sprite_location":"origins:textures/gui/community/huang/resource_bar_02.png",
 			"bar_index":0
 		},
-		"key":"key.saveToolbarActivator"
+		"key":"key.origins.quaternary_active"
 	},
 	"glowing":{
 		"type":"origins:entity_glow",

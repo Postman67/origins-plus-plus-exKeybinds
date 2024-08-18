@@ -2,5 +2,5 @@
 	"type":"origins:inventory",
 	"title":"container.warper.title",
 	"drop_on_death":false,
-	"key":"key.saveToolbarActivator"
+	"key":"key.origins.quaternary_active"
 }

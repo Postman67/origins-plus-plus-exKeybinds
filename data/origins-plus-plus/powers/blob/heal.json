@@ -1,6 +1,6 @@
 {
 	"type":"origins:active_self",
-	"key":"key.saveToolbarActivator",
+	"key":"key.origins.quaternary_active",
 	"cooldown":1000,
 	"entity_action":{
 		"type":"origins:and",

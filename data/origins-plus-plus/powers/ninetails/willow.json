@@ -5,5 +5,5 @@
 	"hud_render":{
 		"bar_index":7
 	},
-	"key":"key.saveToolbarActivator"
+	"key":"key.origins.quaternary_active"
 }

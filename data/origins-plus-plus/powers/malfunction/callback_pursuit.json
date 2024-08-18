@@ -24,7 +24,7 @@
 	},
 	"callback":{
 		"type":"origins:active_self",
-		"key":"key.saveToolbarActivator",
+		"key":"key.origins.quaternary_active",
 		"entity_action":{
 			"type":"origins:and",
 			"actions":[
@@ -60,7 +60,7 @@
 	},
 	"pursuit":{
 		"type":"origins:active_self",
-		"key":"key.saveToolbarActivator",
+		"key":"key.origins.quaternary_active",
 		"entity_action":{
 			"type":"origins:and",
 			"actions":[
